@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.amarraju.dailyspark",
+      "sha256_cert_fingerprints": [
+        "4c:44:b5:f1:f9:d0:4f:9d:30:7a:07:44:6e:da:99:42:4f:ce:84:20:61:02:8b:0d:ee:7d:dc:82:90:e9:7c:db"
+      ]
+    }
+  }
+]
